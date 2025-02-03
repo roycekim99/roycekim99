@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Personal Hub](https://github.com/roycekim99/personal-hub)
 
-- 👨‍💻 All of my projects are available at [roycekim.com](www.roycekim.com)
+- 👨‍💻 All of my projects are available at [roycekim.com](https://roycekim.com)
 
 - 📝 I regularly write articles on [roycekim.com/blog](roycekim.com/blog)
 
